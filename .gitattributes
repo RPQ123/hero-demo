@@ -1,0 +1,6 @@
+# Preserve the generated standalone game byte-for-byte across platforms.
+index.html -text
+*.png binary
+*.pptx binary
+*.md text eol=lf
+*.txt text eol=lf
