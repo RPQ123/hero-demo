@@ -53,6 +53,18 @@ Map announcement: https://overwatch.blizzard.com/en-us/news/20401305/
 New map geometry, materials and menu preview are independently reconstructed for this fan demo. Reference screenshots are not embedded in the game.
 
 
+v1.78 four training maps: original fan-made geometry, procedural textures and in-game preview captures. Environment references: Blizzard Overwatch media gallery and Black Forest / Petra map announcements. These are adapted single-player practice layouts, not official map assets.
+https://overwatch.blizzard.com/en-us/media/
+https://overwatch.blizzard.com/en-gb/news/21031494/
+
+
+v1.79 map reconstruction references: original environment artists; reference images were used for analysis only. New geometry, textures and layout are independently authored.
+https://philipklevestav.artstation.com/projects/g2NEGP
+https://simonfuchs.artstation.com/projects/X50GL
+https://philipklevestav.artstation.com/projects/aYeAL0
+https://www.philipk.net/portfolio/overwatch/overwatch_port.html
+
+
 v1.48 interface typography
 Recall Display is a renamed subset of Barlow Condensed ExtraBold Italic by Jeremy Tribby.
 Recall CJK is a renamed subset of Noto Sans SC by the Noto Project.
